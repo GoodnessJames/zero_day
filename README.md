@@ -1,6 +1,6 @@
 # Vagrant (How to Code in your Local Computer)
 
-This project elaborates how to use vagrant and VMs on local machines for carrying out ALX tasks instead of the web terminal.
+This project elaborates how to use vagrant and VMs on local machines for carrying out ALX tasks instead of using the web terminal.
 
 # General Learning Objectives
 
